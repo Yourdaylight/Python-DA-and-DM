@@ -13,6 +13,8 @@
     - 1、基于亚马逊商品评论的文本挖掘（2020美赛c题）
     - 2、基于市长信箱的留言与回复的文本挖掘
     
-    
+
+### 更多案例放在了以下项目中:
+https://gitee.com/lzhcoooode/machine_learning_projects
 
 
